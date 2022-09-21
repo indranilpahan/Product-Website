@@ -1,0 +1,113 @@
+body{
+    width: 100%;
+}
+/*.logo{
+    height: 100px;
+    width: 200px;
+}*/
+#limg{
+    align-items: center;
+    height: 400px;
+    width: 1000px;
+    margin-left: 30px;
+    background-image:url('DigitalStore.png');
+    
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    
+}
+#position{
+ padding-top: 35%;
+ 
+ 
+}
+.color{
+    color: black;
+}
+h1{
+    color: rosybrown;
+    background-color: blanchedalmond;
+    
+    text-shadow: 5%;
+    font-weight: bold;
+    font-style: inherit;
+    padding-left: 20px;
+}
+.boder{
+    background-color:yellowgreen;
+   
+}
+spam{    
+    margin: 30px;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+h2{
+    color: coral;
+    background-color: antiquewhite;
+}
+.abs{
+    
+    color: aqua;
+    background-color: black;
+    padding: 30px;
+    margin-top: 20px;
+}
+h5{
+    color:white;
+
+}
+#tablelogo{
+    background-color: white;
+    
+}
+
+  .pic{
+    margin: 50px;
+  }
+  #cimg{
+    background-image: url(images.jpg);
+  }
+  from label{
+    align-items: center;
+    margin: 100px;
+    padding: 100px;
+    font-weight: bold;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+  }
+
+  .submit{
+    position: center;
+    margin-left: 200px;
+    font-size: 50px;
+
+
+}
+.ltable{
+    height: 100%;
+    width: 100%;
+    padding: 50px;
+    size: 100px;
+
+}
+.details{ 
+     height: 100%;
+    width: 100%;
+    padding: 50px;
+    background-color: yellow;
+    color: blue;
+}
+
+#contact{
+    text-align: center;
+    color: darkred;
+    
+}
+.logo{
+    float: right;
+    width: 33.33%;
+    padding: 5px;
+}
